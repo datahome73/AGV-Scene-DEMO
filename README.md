@@ -1,2 +1,58 @@
 # AGV-Scene-DEMO
-AGV Smart Vehicle (Automated Guided Vehicle) automatically transports goods to the designated place through special landmark navigation. It can assist and replace manpower in factories, logistics and warehousing. This project realizes problems in AGV monitoring, optimization and cost calculation.
+
+#### 项目介绍
+AGV智慧小车(Automated Guided Vehicle)，通过特殊地标导航自动将物品运输至指定地点。在工厂、物流、仓储里可以辅助和替代人力。
+本项目实现AGV的监控、优化、费用计算中的问题。
+
+#### 软件架构
+本项目计划：
+会将设计AGV的工业设计图纸数字化后，存放到IPFS网络中，以便于项目的相关干系人来持续的优化、改善AGV的硬件设备。
+会把实际工作的地点转换为带语义的平面图,存放到IPFS网。给AGV规划线路使用。
+会监控AGV的实际运行线路和操作，把监控视频及图片存放到IPFS网。给后续优化线路，优化步骤提供依据。
+创建一个FVM的智能合约，用于计算实际存储在IPFS网内使用的存储空间，做为和存储服务商的结算依据。
+
+
+#### 项目相关技术，与IFPS、Filecoin或相关技术
+##### 该项目如何使用IPFS、Filecoin或相关技术
+本项目计划：
+会将设计AGV的工业设计图纸数字化后，存放到IPFS网络中，以便于项目的相关干系人来持续的优化、改善AGV的硬件设备。
+会把实际工作的地点转换为带语义的平面图,存放到IPFS网。给AGV规划线路使用。
+会监控AGV的实际运行线路和操作，把监控视频及图片存放到IPFS网。给后续优化线路，优化步骤提供依据。
+创建一个FVM的智能合约，用于计算实际存储在IPFS网内使用的存储空间，做为和存储服务商的结算依据。
+
+
+##### 该项目是否与FVM合作?
+是。
+该项目会使用到FVM智能合约。核心是做一个公平公正的计费系统。
+
+#### 资金使用
+你将如何利用这笔资金改进你的项目?你将采取什么步骤来实现这个目标?(最多200字)
+
+
+#### 分享报告
+你是否同意应要求分享拨款报告，包括在三个月期结束时的最终拨款报告?
+同意
+
+##### 行为准则
+6. 你的建议是否符合我们的社区行为准则?
+符合社区行为规则
+
+##### 链接及提交资料
+如果你的项目开始于黑客马拉松，你是否提交了相关的协议实验室奖项?如有链接，请在此处添加:
+额外的问题:
+对于每个团队成员，请列出姓名、电子邮件、Github帐户和项目中的角色。
+陈大宏，datahome@21cn.com,产品经理
+林亮芳，，项目经理
+刘思东，，架构师
+蔡飞灵，，主程序员
+刘汉东，，程序员
+朱茂峰，，程序员 
+
+##### 消息来源
+你是怎么知道我们的小额资助计划的?
+通过一些小型的技术论坛了解到的。
+
+##### 额外信息
+如果你的项目是作为活动或黑客马拉松的一部分创建的:
+活动的名称是什么?(例如ETHGlobal NFTHack, Cal Hacks hello:world, Chainlink, CivHacks, GameDevJ, ETHGlobal Scaling Ethereum)
+请链接到您提交的黑客马拉松
